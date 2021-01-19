@@ -35,3 +35,4 @@ class Stack{
         return copyThis
     }
 }
+module.exports = Stack
