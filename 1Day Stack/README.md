@@ -10,10 +10,10 @@ A Stack is an abstract data type that serves as a collection of elements. The St
 
 ## Use
 
-´´´javascript
+``` javascript
     const Stack = require('./Stack')
     const newStack = new Stack(10)
     newStack.push("Insert in Stack")
     newStack.pop("Remove from Stack")
     newStack.copy() //Generate a copy of Stack.
-´´´
+```
