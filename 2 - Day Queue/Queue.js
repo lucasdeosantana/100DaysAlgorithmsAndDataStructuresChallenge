@@ -23,11 +23,4 @@ class Queue{
     }
 }
 
-const queue =  new Queue()
-queue.enQueue("123")
-queue.enQueue("1234")
-queue.enQueue("12345")
-queue.deQueue()
-console.log(queue.search("123"))
-console.log(queue)
-// modules.export=Queue
+modules.export = Queue
