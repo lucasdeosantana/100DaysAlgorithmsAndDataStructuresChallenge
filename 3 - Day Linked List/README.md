@@ -1,5 +1,5 @@
 # 100DaysAlgorithmsAndDataStructuresChallenge
-<h2 align="center">#2 - Day Two A Queue!<h2>
+<h2 align="center">#3 - Day Three A Linked List!<h2>
 
 <p align="center"><img src="https://github.com/lucasdeosantana/100DaysAlgorithmsAndDataStructuresChallenge/blob/main/3%20-%20Day%20Linked%20List/linkedListExample.png" width="700"></p>
 
